@@ -49,7 +49,7 @@ Steps performed:
 ---
 
 ## 🖼️ Dashboard Screenshot
-![Power BI Dashboard Preview](dashboard.png)
+![Power BI Dashboard Preview](Dashboard.png)
   
 ---
 
@@ -67,5 +67,6 @@ Steps performed:
 📍 IIT Roorkee 
 
 ---
+
 
 
