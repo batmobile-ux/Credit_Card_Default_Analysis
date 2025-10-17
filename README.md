@@ -49,8 +49,8 @@ Steps performed:
 ---
 
 ## 🖼️ Dashboard Screenshot
-*Dashboard.png*  
-
+![Power BI Dashboard Preview](dashboard.png)
+  
 ---
 
 ## 🧰 Tools Used
@@ -67,4 +67,5 @@ Steps performed:
 📍 IIT Roorkee 
 
 ---
+
 
